@@ -9,8 +9,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=masterAI359)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=masterAI359&theme=light&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=masterAI359&theme=light&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masterAI359&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
